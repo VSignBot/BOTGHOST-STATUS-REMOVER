@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Bienvenue sur le serveur Chayiz !"];
 
 
 let currentIndex = 0;
