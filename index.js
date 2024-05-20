@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bienvenue sur le serveur Chayiz !"];
+const statusMessages = ["VSign V2 Coming Soon!"];
 
 
 let currentIndex = 0;
